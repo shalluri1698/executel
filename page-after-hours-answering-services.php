@@ -1,0 +1,20 @@
+<?php get_header(); ?>
+<main id="main">
+<section class="hero page"><div class="wrap">
+  <span class="eyebrow"><i></i>Executel Communications</span><h1>After Hours Answering Services</h1><p class="lead">Keep seamless channels of branded communication open 24/7.</p><div class="actions"><a class="btn primary" href="<?php echo esc_url(executel_url('free-trial')); ?>">Get Started →</a></div>
+</div></section>
+<section style="padding-top:20px"><div class="wrap split">
+  <div class="reveal"><p class="lead" style="font-size:1.1rem">Just because the closed sign’s on the door and your employees have gone home doesn’t mean business stops. From attorneys to plumbers to small and large-sized businesses our after-hours answering service ensures no current or prospective clients ever reach an answering machine or a competitor first.</p></div>
+  <img class="reveal rounded" src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/img/Image_1_510x360-1.jpg" alt="After hours answering service" width="510" height="360" loading="lazy" decoding="async">
+</div></section>
+<section class="alt"><div class="wrap prose">
+<p>We provide a unified extension of your company brand and will all but eliminate missed calls. We deliver the fastest pickup times in the industry that will help you grow your business while you’re away, saving you money month after month.</p><p>As directed by you our operators can take messages, patch emergency calls , answer questions, provide directions, or anything else in between your company needs.</p>
+<div class="actions"><a class="btn primary" href="<?php echo esc_url(executel_url('free-trial')); ?>">Start your free trial</a></div></div></section>
+<section><div class="wrap"><div class="grid g3"><div class="card reveal"><h2 class="h3">Improve Customer Service and Satisfaction</h2><p style="margin-top:10px">Delivering exceptional support shouldn’t end when your office hours do. Our after-hours answering services ensure that every caller is greeted by a real, professional agent no voicemails, no delays.</p></div><div class="card reveal"><h3>Stay Connected with a Nationwide or Overseas Customer Base</h3><p style="margin-top:10px">Our scalable call center solutions ensure your business remains responsive across time zones, regions, and countries. Whether it’s late-night inquiries from across the country or urgent calls from international clients, we help you deliver consistent, real-time communication that builds trust and keeps your brand accessible 24/7.</p></div><div class="card reveal"><h3>Increase Revenue</h3><p style="margin-top:10px">Consistent, professional call handling builds trust and accelerates decision-making. By ensuring every caller is engaged promptly and effectively, we help you maximize revenue potential across every interaction.</p></div><div class="card reveal"><h3>Keep Seamless Channels of Branded Communication Open 24/7</h3><p style="margin-top:10px">Your brand voice shouldn’t sleep – and with our support, it won’t. Our 24/7 answering and call center services ensure every interaction reflects your company’s tone, values, and commitment to excellence.</p></div><div class="card reveal"><h3>Lower Overhead and Reap High Returns on Investment</h3><p style="margin-top:10px">Hiring, training, and managing in-house staff around the clock can be costly. With flexible plans, trained professionals, and 24/7 availability, you get maximum coverage and customer satisfaction at a fraction of the cost – resulting in greater efficiency and higher ROl.</p></div></div></div></section><section style="padding-top:0"><div class="wrap"><div class="cta reveal">
+  <h2>Start your free trial</h2><p>Free 7-day trial. No contracts, no credit card.</p>
+  <div class="actions"><a class="btn primary" href="<?php echo esc_url(executel_url('free-trial')); ?>">Start your free trial</a><a class="btn ghost" href="<?php echo esc_url(executel_url('contact')); ?>">Contact us</a></div>
+  <p class="cta-phone">Or call <a href="tel:8005627505">800-562-7505</a></p>
+</div></div></section>
+
+</main>
+<?php get_footer(); ?>
